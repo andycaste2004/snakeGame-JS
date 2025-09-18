@@ -188,3 +188,9 @@ function createFoodReverse(){
     foodXReverse = randomFood(0,gameWidth-unitSize);
     foodYReverse = randomFood(0,gameHeight-unitSize);
 };
+
+// ADD more fruits for the game functionality and playability
+// ADD levels that increase speed as score increases
+// ADD sound effects when eating food and game over
+// ADD mobile functionality
+// ADD a high score that persists after the game is closed
